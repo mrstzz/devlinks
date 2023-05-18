@@ -1,15 +1,16 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
+Page with my Links with professional informations such as Professional profile, Portfolio and Social media.
+This structure was based on maykbrito free lesson on Rocketseat plataform. <br/>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">learn this project in video format by clicking here.</a>
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licence</a>
 </p>
 
 <p align="center">
@@ -19,34 +20,40 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
+  Original Layout
   <img alt="projeto DevLinks" src="./assets/capa.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+<p align="center">
+  My layout
+  <img alt="Layout darkmode" src="./assets/capa-darkmode.png" width="100%">
+  <img alt="Layout darkmode" src="./assets/capa-lightmode.png" width="100%">
+  
+</p>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
 
-- HTML e CSS
+This project was developed with the follow technologies:
+
+- HTML & CSS
 - JavaScript
-- Git e Github
+- Git & Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+The purpose of this project is to be a link aggregator that works basically as a business card.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Access the finished project, online](https://maykbrito.github.io/devlinks)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can visualize the project layout throught [THIS LINK](https://www.figma.com/community/file/1187422022288947321). It's necessary to have an account on [Figma](https://figma.com) to access it..
 
-## :memo: Licença
+## :memo: Licence
 
-Esse projeto está sob a licença MIT.
+This project is lincensed under the MIT license.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made ♥ by Rocketseat :wave: [Join the community!](https://discord.gg/rocketseat)
