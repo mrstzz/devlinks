@@ -26,8 +26,8 @@ This structure was based on maykbrito free lesson on Rocketseat plataform. <br/>
 
 <p align="center">
   My layout
-  <img alt="Layout darkmode" src="./assets/capa-darkmode.png" width="100%">
-  <img alt="Layout darkmode" src="./assets/capa-lightmode.png" width="100%">
+  <img alt="Layout darkmode" src="./assets/bg-darkmode-site.png" width="100%">
+  <img alt="Layout darkmode" src="./assets/bg-lightmode-site.png" width="100%">
   
 </p>
 
