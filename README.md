@@ -3,7 +3,7 @@
 <p align="center">
 Page with my Links with professional informations such as Professional profile, Portfolio and Social media.
 This structure was based on maykbrito free lesson on Rocketseat plataform. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito"target='_blank'>learn this project in video format by clicking here.</a>
+<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito"target="_blank">learn this project in video format by clicking here.</a>
 </p>
 
 <p align="center">
